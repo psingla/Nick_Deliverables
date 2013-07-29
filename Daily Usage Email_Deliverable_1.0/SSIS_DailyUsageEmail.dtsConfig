@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<DTSConfiguration>
+	<DTSConfigurationHeading>
+		<DTSConfigurationFileInfo GeneratedBy="psingla" GeneratedFromPackageName="SSIS_DailyUsageEmail" GeneratedFromPackageID="{7EAA63C5-65CF-46F7-ACB4-00F572DFE626}" GeneratedDate="7/27/2013 12:51:29 PM"/>
+	</DTSConfigurationHeading>
+	<Configuration ConfiguredType="Property" Path="\Package.Variables[User::cmSOURCEDBName].Properties[Value]" ValueType="String">
+		<ConfiguredValue>ILM_PROFILE</ConfiguredValue>
+	</Configuration>
+	<Configuration ConfiguredType="Property" Path="\Package.Variables[User::cmSOURCEInstance].Properties[Value]" ValueType="String">
+		<ConfiguredValue>Replace with Actual Value</ConfiguredValue>
+	</Configuration>
+	<Configuration ConfiguredType="Property" Path="\Package.Variables[User::i16LogRetentionDays].Properties[Value]" ValueType="Int16">
+		<ConfiguredValue>7</ConfiguredValue>
+	</Configuration>
+	<Configuration ConfiguredType="Property" Path="\Package.Variables[User::sEmailPassword].Properties[Value]" ValueType="String">
+		<ConfiguredValue>Replace with Actual Value</ConfiguredValue>
+	</Configuration>
+	<Configuration ConfiguredType="Property" Path="\Package.Variables[User::sEmailPort].Properties[Value]" ValueType="String">
+		<ConfiguredValue>25</ConfiguredValue>
+	</Configuration>
+	<Configuration ConfiguredType="Property" Path="\Package.Variables[User::sEmailServer].Properties[Value]" ValueType="String">
+		<ConfiguredValue>Replace with Actual Value</ConfiguredValue>
+	</Configuration>
+	<Configuration ConfiguredType="Property" Path="\Package.Variables[User::sEmailUser].Properties[Value]" ValueType="String">
+		<ConfiguredValue>Replace with Actual Value</ConfiguredValue>
+	</Configuration>
+	<Configuration ConfiguredType="Property" Path="\Package.Variables[User::SSISFolderRoot].Properties[Value]" ValueType="String">
+		<ConfiguredValue>Replace with Actual Value</ConfiguredValue>
+	</Configuration>
+</DTSConfiguration>
+
